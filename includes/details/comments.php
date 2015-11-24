@@ -3,9 +3,6 @@
     <a href="#">All Comments (8,657)</a>
     <div class="box">
       <form>
-        <input type="text" placeholder="Name" required=" ">
-        <input type="text" placeholder="Email" required=" ">
-        <input type="text" placeholder="Phone" required=" ">
         <textarea placeholder="Message" required=" "></textarea>
         <input type="submit" value="SEND">
         <div class="clearfix"> </div>
