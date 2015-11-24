@@ -2,6 +2,7 @@
   <div class="all-comments-info">
     <a href="#">All Comments (8,657)</a>
     <div class="box">
+      
       <form>
         <textarea placeholder="Message" required=" "></textarea>
         <input type="submit" value="SEND">
