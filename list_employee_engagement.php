@@ -19,7 +19,7 @@
         <div class="recommended">
           <div class="recommended-grids top-grids">
             <div class="recommended-info">
-              <h3>People Academy</h3>
+              <h3>Employee Engageent</h3>
             </div>
             <div class="col-md-3 resent-grid recommended-grid">
               <div class="resent-grid-img recommended-grid-img">
