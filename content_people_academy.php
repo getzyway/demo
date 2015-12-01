@@ -22,10 +22,10 @@
                 <h3>Employee Engagement</h3>
               </div>
               <div class="video-grid">
-                <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="264"
+                <video id="example_video_1" class="video-js vjs-default-skin" controls preload="auto" width="640" height="264"
                   poster="http://54.169.208.217/images/cover.jpg"
                   data-setup="{}">
-                <source src="http://54.169.208.217/video/people_employee_benefit/benefits_ep1_720p.mp4" type='video/mp4' />
+                <source src="./video/people_employee_benefit/benefits_ep1_720p.mp4" type='video/mp4' />
                 <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
               </video>
 
