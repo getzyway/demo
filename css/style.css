@@ -2847,3 +2847,7 @@ background: url(../images/social.png) no-repeat 0px 0px;
 	font-weight: normal;
 	line-height: 20px;
 }
+
+.video-grid {
+	border:1px green solid;
+}
