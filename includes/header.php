@@ -24,9 +24,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <link href="http://vjs.zencdn.net/5.0.2/video-js.css" rel="stylesheet">
 <script src="http://vjs.zencdn.net/ie8/1.1.0/videojs-ie8.min.js"></script>
+<script>
+    window.HELP_IMPROVE_VIDEOJS = false;
+</script>
 <script src="http://vjs.zencdn.net/5.0.2/video.js"></script>
 <script>
-  videojs.options.flash.swf = "http://example.com/path/to/video-js.swf"
+    videojs.options.flash.swf = "http://example.com/path/to/video-js.swf"
 </script>
 <!-- //fonts -->
 </head>
