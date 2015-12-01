@@ -5,7 +5,7 @@
             <div class="single-grid-right">
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r5.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -16,7 +16,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r6.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -27,7 +27,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r1.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -38,7 +38,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r2.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -49,7 +49,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r3.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -60,7 +60,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r4.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -71,7 +71,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r5.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
@@ -82,7 +82,7 @@
               </div>
               <div class="single-right-grids">
                 <div class="col-md-4 single-right-grid-left">
-                  <a href="content.html"><img src="images/r6.jpg" alt="" /></a>
+                  <a href="content.html"><img src="images/cover.jpg" alt="" /></a>
                 </div>
                 <div class="col-md-8 single-right-grid-right">
                   <a href="content.html" class="title"> Nullam interdum metus</a>
