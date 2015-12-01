@@ -156,7 +156,7 @@
               </script>
 
               <li>
-                <a href="list_people_academy.html" class="menu7">
+                <a href="#" class="menu7">
                   <span class="glyphicon glyphicon-film glyphicon-king" aria-hidden="true"></span>
                   People Academy
                   <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
