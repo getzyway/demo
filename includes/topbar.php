@@ -7,7 +7,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><h1><img src="images/mitrphol/logo.png" alt="" /></h1></a>
+      <a href="index.html">
+        <div id="brand-logo">
+          <h2>MITR PHOL</h2>
+          <h3>COMPETENCY LANE</h3>
+        </div>
+      </a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
   <div class="top-search">

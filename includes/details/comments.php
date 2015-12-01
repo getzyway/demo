@@ -1,13 +1,19 @@
 <div class="all-comments">
   <div class="all-comments-info">
-    <a href="#">All Comments</a>
+    <a href="#">All Comments (8,657)</a>
     <div class="box">
-
       <form>
         <textarea placeholder="Message" required=" "></textarea>
         <input type="submit" value="SEND">
         <div class="clearfix"> </div>
       </form>
+    </div>
+    <div class="all-comments-buttons">
+      <ul>
+        <li><a href="#" class="top">Top Comments</a></li>
+        <li><a href="#" class="top newest">Newest First</a></li>
+        <li><a href="#" class="top my-comment">My Comments</a></li>
+      </ul>
     </div>
   </div>
   <div class="media-grids">

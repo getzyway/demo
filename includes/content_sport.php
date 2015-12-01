@@ -5,7 +5,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/g.jpg" alt="" /></a>
+				<a href="content.html"><img src="images/cover.jpg" alt="" /></a>
 				<div class="time small-time">
 					<p>7:30</p>
 				</div>
@@ -23,7 +23,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/g1.jpg" alt="" /></a>
+				<a href="content.html"><img src="images/cover.jpg" alt="" /></a>
 				<div class="time small-time">
 					<p>9:34</p>
 				</div>
@@ -41,7 +41,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/g2.jpg" alt="" /></a>
+				<a href="content.html"><img src="images/cover.jpg" alt="" /></a>
 				<div class="time small-time">
 					<p>5:34</p>
 				</div>
@@ -59,7 +59,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/g3.jpg" alt="" /></a>
+				<a href="content.html"><img src="images/cover.jpg" alt="" /></a>
 				<div class="time small-time">
 					<p>6:55</p>
 				</div>
@@ -80,7 +80,7 @@
 	<div class="recommended-grids">
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/we2.jpg" alt=""></a>
+				<a href="content.html"><img src="images/cover.jpg" alt=""></a>
 				<div class="time small-time">
 					<p>7:30</p>
 				</div>
@@ -98,7 +98,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/we1.jpg" alt=""></a>
+				<a href="content.html"><img src="images/cover.jpg" alt=""></a>
 				<div class="time small-time">
 					<p>9:34</p>
 				</div>
@@ -116,7 +116,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/we4.jpg" alt=""></a>
+				<a href="content.html"><img src="images/cover.jpg" alt=""></a>
 				<div class="time small-time">
 					<p>5:34</p>
 				</div>
@@ -134,7 +134,7 @@
 		</div>
 		<div class="col-md-3 resent-grid recommended-grid">
 			<div class="resent-grid-img recommended-grid-img">
-				<a href="content.html"><img src="images/we3.jpg" alt=""></a>
+				<a href="content.html"><img src="images/cover.jpg" alt=""></a>
 				<div class="time small-time">
 					<p>6:55</p>
 				</div>

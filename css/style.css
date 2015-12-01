@@ -141,7 +141,8 @@ ul.nav.nav-sidebar li a{
     color: #BBBBBB;
     font-size: 13px;
     font-weight: 600;
-    padding: .8em 0 .8em 3em;
+    padding: .8em 0 .8em 1em;
+		text-indent: 0px;
 }
 .main-grids {
   padding: 0 0 1em 1em;
@@ -169,7 +170,7 @@ ul.nav.nav-sidebar li a:focus {
 .sidebar.top-navigation{
 	display:none;
 }
-ul.cl-effect-1,ul.cl-effect-2 {
+ul.cl-effect-1,ul.cl-effect-2,ul.cl-effect-3,ul.cl-effect-4,ul.cl-effect-5,ul.cl-effect-6,ul.cl-effect-7,ul.cl-effect-8,ul.cl-effect-9,ul.cl-effect-10 {
 	display: none;
 }
 .nav-sidebar ul {
@@ -184,24 +185,24 @@ ul.cl-effect-1,ul.cl-effect-2 {
     margin: 0;
 }
 .nav-sidebar ul li a {
-    padding: .5em 0 .5em 7em !important;
+    padding: .5em 0 .5em 2em !important;
     display: block;
     text-decoration: none;
 }
 .glyphicon-film{
-	margin: 0 2em 0 0;
+	margin: 0 .5em 0 0;
     font-size: 16px !important;
 }
 .glyphicon-home {
-	margin: 0 2em 0 0;
+	margin: 0 .5em 0 0;
     font-size: 16px !important;
 }
 .glyphicon-music {
-    margin: 0 2em 0 0;
+    margin: 0 .5em 0 0;
     font-size: 16px !important;
 }
 .news-icon span.glyphicon-envelope{
-	margin: 0 2em 0 0;
+	margin: 0 .5em 0 0;
     font-size: 16px !important;
 }
 .glyphicon-menu-down{
@@ -2827,4 +2828,22 @@ background: url(../images/social.png) no-repeat 0px 0px;
 #video-list .preview{
 	margin-left: 20px;
 	color: #fff;
+}
+
+#brand-logo {
+	marin:0 10px;
+	text-align: center;
+
+}
+#brand-logo h2 {
+	margin: 0;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 26px;
+}
+#brand-logo h3 {
+	margin: 0;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 20px;
 }
