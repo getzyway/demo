@@ -21,5 +21,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- fonts -->
 <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+
+<link href="http://vjs.zencdn.net/5.0.2/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/5.0.2/video.js"></script>
 <!-- //fonts -->
 </head>
