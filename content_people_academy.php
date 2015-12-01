@@ -22,12 +22,10 @@
                 <h3>Employee Engagement</h3>
               </div>
               <div class="video-grid">
-
-                XXX
                 <video id="example_video_1" class="video-js vjs-default-skin"
                   controls preload="auto" width="640" height="264"
                   poster="http://video-js.zencoder.com/oceans-clip.png"
-                  data-setup='{"example_option":true}'
+                  data-setup='{"example_option":true, "width": 640, "height": 480}'
                   width="755"
                   height="355"
                 >
