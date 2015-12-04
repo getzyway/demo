@@ -38,7 +38,7 @@
     <li>
       <a href="#" class="menu2">
         <span class="glyphicon glyphicon-film glyphicon-king" aria-hidden="true"></span>
-        Sugar Production Academy
+        Sugar Product Academy
         <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
       </a>
     </li>
