@@ -113,7 +113,7 @@
             </a>
           </li>
             <ul class="cl-effect-5">
-              <li><a href="#">Economic Value Added</a></li>
+              <li><a href="list_finance_eva.html">Economic Value Added</a></li>
               <li><a href="#">ความรู้เบื้องต้นด้านบัญชีและการเงิน</a></li>
               <li><a href="#">ธุรกรรมและเครื่องมือทางการเงิน</a></li>
               <li><a href="#">สินเชื่อและการให้เงินกู้</a></li>
