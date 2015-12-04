@@ -165,14 +165,14 @@
                 <ul class="cl-effect-7">
                   <li><a href="#">นโยบายและกลยุทธิ์ HR</a></li>
                   <li><a href="#">การสรรหาและคัดเลือก</a></li>
-                  <li><a href="#">การพัฒนาบุคลากร</a></li>
+                  <li><a href="list_people_function_competency.html">การพัฒนาบุคลากร</a></li>
                   <li><a href="#">การประเมินผลการปฏิบัติงาน</a></li>
                   <li><a href="#">ระบบ EVA</a></li>
                   <li><a href="#">Career Management</a></li>
                   <li><a href="#">Talent Management</a></li>
                   <li><a href="#">วัฒนธรรมมิตรผล</a></li>
                   <li><a href="#">World Class Organization</a></li>
-                  <li><a href="list_employee_benefit.html">สวัสดิการและผลตอบแทน</a></li>
+                  <li><a href="list_employee_benefit.html ">สวัสดิการและผลตอบแทน</a></li>
                   <li><a href="list_employee_engagement.html">Employee Engagement</a></li>
                   <li><a href="#">การบริหารวินัยและการลงโทษ</a></li>
                   <li><a href="#">ชุดความรู้สำหรับพนักงานใหม่</a></li>
