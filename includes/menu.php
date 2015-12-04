@@ -86,7 +86,7 @@
           </a>
         </li>
           <ul class="cl-effect-4">
-            <li><a href="#">ผลิตภัณฑ์ของกลุ่มมิตรผล</a></li>
+            <li><a href="list_understanding_sugar_product.html">ผลิตภัณฑ์ของกลุ่มมิตรผล</a></li>
             <li><a href="#">การขายธุรกิจอุตสาหกรรม</a></li>
             <li><a href="#">การขายธุรกิจตัวแทนจำหน่าย</a></li>
             <li><a href="#">การขายต่างประเทศ</a></li>
