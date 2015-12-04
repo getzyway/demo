@@ -172,7 +172,7 @@
                   <li><a href="#">Talent Management</a></li>
                   <li><a href="#">วัฒนธรรมมิตรผล</a></li>
                   <li><a href="#">World Class Organization</a></li>
-                  <li><a href="#">สวัสดิการและผลตอบแทน</a></li>
+                  <li><a href="list_employee_benefit.html">สวัสดิการและผลตอบแทน</a></li>
                   <li><a href="list_employee_engagement.html">Employee Engagement</a></li>
                   <li><a href="#">การบริหารวินัยและการลงโทษ</a></li>
                   <li><a href="#">ชุดความรู้สำหรับพนักงานใหม่</a></li>
