@@ -92,7 +92,7 @@
             <li><a href="#">การขายต่างประเทศ</a></li>
             <li><a href="#">การตลาดโมลาส</a></li>
             <li><a href="#">โครงสร้างราคา</a></li>
-            <li><a href="#">Future Market & Risk Management</a></li>
+            <li><a href="list_marketing_future_trading.html">Future Market & Risk Management</a></li>
             <li><a href="#">Derivative</a></li>
             <li><a href="#">Logistic</a></li>
           </ul>
