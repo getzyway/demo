@@ -1,0 +1,25 @@
+body {
+  background-color: #134A6A;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.modal-content {
+   vertical-align:middle;
+}
+.modal-footer {
+  border-top: 0px;
+}
+.modal-header h2 {
+  color: #21438F;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.modal-header h3 {
+  color: #52A9F1;
+  font-size: 22px;
+  font-weight: normal;
+  text-align: center;
+  margin: 5px 0px;
+}
