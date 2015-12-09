@@ -23,3 +23,18 @@ body {
   text-align: center;
   margin: 5px 0px;
 }
+.social-sits {
+    float: left;
+    text-align: left;
+    padding: 3em 0 0 3em;
+    width: 50%;
+    border:1px pink solid;
+}
+.signup {
+    position: relative;
+    padding: 2em 0 0 6em;
+    float: right !important;
+    width: 50%;
+    border-left: solid 1px #E4E4E4;
+    text-align: left;
+}

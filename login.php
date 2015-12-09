@@ -9,7 +9,6 @@
 		<!--[if lt IE 9]>
 			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-    
 		<link href="./css/bootstrap.min.css" rel="stylesheet">
 		<link href="./css/login-styles.css" rel="stylesheet">
 	</head>
@@ -31,7 +30,7 @@
               <input type="password" class="form-control input-lg" placeholder="Password">
             </div>
             <div class="form-group">
-              <button class="btn btn-primary btn-lg btn-block">Sign In</button>
+              <a href="index.html" class="btn btn-primary btn-lg btn-block">Sign In</a>
             </div>
           </form>
       </div>
